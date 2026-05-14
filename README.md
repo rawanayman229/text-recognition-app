@@ -1,4 +1,4 @@
-# untitled1
+Text-Recognition-App
 
 A new Flutter project.
 
